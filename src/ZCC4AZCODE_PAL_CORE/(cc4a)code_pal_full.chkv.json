@@ -1,0 +1,82 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "All CodePal checks",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "*"
+  },
+  "selectedChecks": [
+    {
+      "checkName": "ZCC4AZPREFER_IS_NOT"
+    },
+    {
+      "checkName": "ZCC4AZASSIGNMENT_CHAINING"
+    },
+    {
+      "checkName": "ZCC4AZAVOID_DB_ACCESS_IN_AUNIT"
+    },
+    {
+      "checkName": "ZCC4AZAVOID_TEST_SEAM"
+    },
+    {
+      "checkName": "ZCC4AZCHAIN_DECLARATIONS"
+    },
+    {
+      "checkName": "ZCC4AZCONSTANTS_INTERFACE"
+    },
+    {
+      "checkName": "ZCC4AZAVOID_SELF_REFERENCE"
+    },
+    {
+      "checkName": "ZCC4AZAVOID_DEFAULT_KEY"
+    },
+    {
+      "checkName": "ZCC4AZMETHOD_SIGNATURE",
+      "parameters": [
+        {
+          "name": "CheckPubMethodNoInterface",
+          "value": "true"
+        },
+        {
+          "name": "CheckInputParamBoolean",
+          "value": "true"
+        },
+        {
+          "name": "CheckInputParamOptional",
+          "value": "true"
+        },
+        {
+          "name": "CheckOutputParamNumber",
+          "value": "true"
+        },
+        {
+          "name": "CheckOutputParamType",
+          "value": "true"
+        },
+        {
+          "name": "CheckRetParamNotNamedResult",
+          "value": "true"
+        },
+        {
+          "name": "CheckExpParamNumberNotOne",
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "checkName": "ZCC4AZPREFER_METHODS"
+    },
+    {
+      "checkName": "ZCC4AZCHECK_IN_ITERATION"
+    },
+    {
+      "checkName": "ZCC4AZPROPER_BOOL_USAGE"
+    },
+    {
+      "checkName": "ZCC4AZMODERN"
+    },
+    {
+      "checkName": "ZCC4AZVARIABLE_SCOPE"
+    }
+  ]
+}
