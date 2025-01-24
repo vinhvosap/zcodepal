@@ -1,0 +1,10 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Prefer methods over other procedures",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "*"
+  },
+  "category": "ZCC4AZCODE_PAL",
+  "implementingClass": "ZCC4AZPREFER_METHODS"
+}

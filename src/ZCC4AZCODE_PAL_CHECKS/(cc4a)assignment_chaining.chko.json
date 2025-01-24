@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Assignment Chaining",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "*"
+  },
+  "category": "ZCC4AZCODE_PAL",
+  "implementingClass": "ZCC4AZEQUALS_SIGN_CHAINING",
+  "checkType": "remoteEnabled"
+}
